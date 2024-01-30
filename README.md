@@ -17,7 +17,21 @@ Today we learning Github and Markdow.
   
 	[Spiced](https://www.spiced-academy.com/)
 
-## Image. 
+## Image
 
 ![Svetli](https://github.com/svetlivaksevski/first-repo/blob/main/image.jpeg)
 
+
+## From internet
+
+## Code
+
+### Inline code.
+
+We can add a 'line' of code
+
+### Block code. 
+
+```js
+let cohort = "Vanilla"
+```
