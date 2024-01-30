@@ -19,6 +19,5 @@ Today we learning Github and Markdow.
 
 ## Image. 
 
-![Svetli](https://github.com/svetlivaksevski/first-repo/assets/70835974/0d7a5dfd-7e37-4f84-9e2d-41459d3f17dd)
-
+![Svetli](https://github.com/svetlivaksevski/first-repo/blob/main/image.jpeg)
 
